@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "23bc96ca-b99f-4b0f-ae26-ef3f0f6aabb2",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of women sitting at desks",
+    "confidence": 0.8010997176170349
+  },
+  "metadata": {
+    "width": 679,
+    "height": 456
+  }
+}
