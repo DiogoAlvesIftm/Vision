@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "89cad8e2-099c-4535-a7fb-e081dd63c4d4",
+  "content-length": "151",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a car parked in a garage",
+    "confidence": 0.7177413105964661
+  },
+  "metadata": {
+    "width": 800,
+    "height": 533
+  }
+}
