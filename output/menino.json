@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "a1f29adc-6b69-4c50-9aa0-caa43eb68884",
+  "content-length": "151",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a boy writing on a book",
+    "confidence": 0.7310009002685547
+  },
+  "metadata": {
+    "width": 1086,
+    "height": 652
+  }
+}
